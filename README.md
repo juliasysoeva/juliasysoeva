@@ -20,7 +20,7 @@ I am a Junior Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Telegram Badge](<img src="https://img.freepik.com/premium-vector/telegram-icon-in-paper-cut-style-social-media-icons_505135-256.jpg" width="200" height="200"/>)](https://t.me/juliasys)
+- :mailbox:How to reach me: [![Telegram Badge](https://img.freepik.com/premium-vector/telegram-icon-in-paper-cut-style-social-media-icons_505135-256.jpg)](https://t.me/juliasys)
 
 <!--
 **juliasysoeva/juliasysoeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
