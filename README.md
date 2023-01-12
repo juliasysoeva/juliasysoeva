@@ -22,6 +22,13 @@ I am a Junior Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :mailbox:How to reach me: [![Telegram Badge](https://lh3.googleusercontent.com/DyznepKsXLXCiPXwoE1L2VFkWkdMQczb6pjy_hSgM59avVVebHKv_4wkkD_H7AzJsDftfkw52qDAqjt-E3YrBFHL9w=w128-h128-e365-rj-sc0x00ffffff)](https://t.me/juliasys) 
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
+
+</div>
 
 <!--
 **juliasysoeva/juliasysoeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
