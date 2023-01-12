@@ -29,7 +29,11 @@ I am a Junior Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original.svg" title="Pandas"  alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg" title="Numpy"  alt="Numpy" width="40" height="40"/>&nbsp;
-  <img src="" title="Tableau"  alt="Tableau" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" title="Matplotlib"  alt="Matplotlib" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-official.svg" title="Plotly"  alt="Plotly" width="40" height="40"/>&nbsp;
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHIf-mwcjgTHdR7aHsknV8C97Wr_KLyUifR1gG3MpWKGteaxn3ycN07plka9lrqOne2DY&usqp=CAU" title="Scipy"  alt="Scipy" width="40" height="40"/>&nbsp;
+  <img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" title="Seaborn"  alt="Seaborn" width="40" height="40"/>&nbsp;
+  <img src="https://ih1.redbubble.net/image.551945823.6297/st,small,507x507-pad,600x600,f8f8f8.jpg" title="Scikit-learn"  alt="Scikit-learn" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/>&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9phAwDFuMuMOL1ghzvNWbkiE1-YZIRcTcXo01lxRH2JNpSwXO9reStZJnrigZg_JLoyo&usqp=CAU" title="Tableau"  alt="Tableau" width="40" height="40"/>&nbsp;
   <img src="https://powerbirussia.ru/wp-content/uploads/2019/01/powerbi-logo.png" title="Power BI"  alt="Power BI" width="40" height="40"/>&nbsp;
