@@ -33,8 +33,8 @@ I am a Junior Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" title="Postgresql"  alt="Postgresql" width="40" height="40"/>&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9phAwDFuMuMOL1ghzvNWbkiE1-YZIRcTcXo01lxRH2JNpSwXO9reStZJnrigZg_JLoyo&usqp=CAU" title="Tableau"  alt="Tableau" width="40" height="40"/>&nbsp;
   <img src="https://powerbirussia.ru/wp-content/uploads/2019/01/powerbi-logo.png" title="Power BI"  alt="Power BI" width="40" height="40"/>&nbsp;
-  <img src="https://download.logo.wine/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.png" title="Excel"  alt="Excel" width="40" height="40"/>&nbsp;
-  <img src="" title="Tableau"  alt="Tableau" width="40" height="40"/>&nbsp;
+  <img src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/375416i783713B05CAD4A92" title="Excel"  alt="Excel" width="40" height="40"/>&nbsp;
+  <img src="https://1000logos.net/wp-content/uploads/2020/08/Microsoft-PowerPoint-Logo-2013-2018.jpg" title="PowerPoint"  alt="PowerPoint" width="40" height="40"/>&nbsp;
 </div>
 
 <!--
