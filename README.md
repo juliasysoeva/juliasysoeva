@@ -14,7 +14,13 @@
 
 ### :woman_technologist: About Me :
 I am a Junior Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
+- :telescope: Now I’m looking for a job after compliting Yandex Praticum courses (my portfolio is on the repository)
 
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Telegram Badge](https://media.giphy.com/media/ya4eevXU490Iw/giphy.gif)](https://t.me/juliasys)
 
 <!--
 **juliasysoeva/juliasysoeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
