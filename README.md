@@ -20,7 +20,7 @@ I am a Junior Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.freepik.com/premium-vector/telegram-icon-in-paper-cut-style-social-media-icons_505135-256.jpg)](https://t.me/juliasys) <img width="200" height="200"/>
+- :mailbox:How to reach me: <div [![Telegram Badge](https://img.freepik.com/premium-vector/telegram-icon-in-paper-cut-style-social-media-icons_505135-256.jpg)](https://t.me/juliasys) <img width="200" height="200"/> </div>
 
 
 <!--
