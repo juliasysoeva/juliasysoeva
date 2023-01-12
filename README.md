@@ -13,7 +13,9 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Junior Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
+I am a Junior Data Analyst from Moscow <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+Data analysis is one of the most popular and perspective direction. Complete immersion in the working process attracts me most in this area. Analyst have to go all the way - from problem statement and receiving raw data to making recomendations for business. You can explore data, look for interesting connections, play the role of a consultant and help a company to improve its activities, strengthen its market position.
+
 - :telescope: Now I’m looking for a job after compliting Yandex Praticum courses [My portfolio](https://github.com/juliasysoeva/Yandex-Practicum-Projects)
 
 - :seedling: Exploring analytics, Python, SQL and BI instruments.
